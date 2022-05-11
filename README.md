@@ -14,7 +14,7 @@ transformers 3.0.2
 
 ### 0. 新词发现算法
 
-- 0-1. [New Words Discovery](0-1.WordsDiscovery)
+- 0-1. [New Words Discovery](0_1_WordsDiscovery)
 
 ### 1. 词向量
 
